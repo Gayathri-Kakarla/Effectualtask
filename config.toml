@@ -1,0 +1,15 @@
+[countries]
+list = [
+  "Australia", "Belgium", "United States", "Canada", "Mexico", "Brazil",
+  "Germany", "France", "Italy", "Denmark", "Finland", "Netherlands",
+  "United Kingdom", "South Africa", "China", "Japan", "Turkey"
+]
+
+[time]
+start_year = 2000
+end_year = 2025
+
+[series]
+industry_value_added_usd_const = "NV.IND.TOTL.KD"
+manufacturing_value_added_usd_const = "NV.IND.MANF.KD"
+gdp_usd_real = "NY.GDP.MKTP.KD"
